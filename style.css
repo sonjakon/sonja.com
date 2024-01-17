@@ -1,0 +1,83 @@
+body,
+html {
+    margin: 2%;
+}
+
+body {
+    font-family: 'Overpass', sans-serif;
+    letter-spacing: 1px;
+}
+
+.header {
+    font-family: 'Overpass', sans-serif;
+    font-size: 20px;
+}
+
+.header2 {
+    font-family: 'Overpass', sans-serif;
+    font-size: 15px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 15px;
+}
+
+
+.thumbnail {
+    width: 400px;
+}
+
+.myresume {
+    width: 300px;
+    height: 300px;
+    font-size: 19px;
+}
+
+span {
+    display: inline-block;
+    font-size: 80px;
+}
+
+a {
+    color: black;
+}
+
+
+.aboutme {
+    width: 320px;
+    height: 300px;
+    background-color: rgb(224, 223, 223);
+    padding: 40px;
+    font-size: 19px;
+
+}
+
+
+.howitwork {
+    width: 320px;
+    height: 300px;
+    background-color: white;
+    padding: 40px;
+    font-size: 19px;
+
+}
+
+.whatido {
+    width: 320px;
+    height: 300px;
+    background-color: white;
+    padding: 40px;
+    font-size: 19px;
+
+}
+
+.contactme {
+    width: 320px;
+    height: 300px;
+    background-color: rgb(164, 163, 163);
+    padding: 40px;
+    font-size: 19px;
+
+}
